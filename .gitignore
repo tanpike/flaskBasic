@@ -1,5 +1,5 @@
 # no stupid bak files
-.bak
+*.bak
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
